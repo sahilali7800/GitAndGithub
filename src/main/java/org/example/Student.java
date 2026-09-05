@@ -2,6 +2,6 @@ package org.example;
 
 public class Student {
 
-    String name;
+    String name ="sahilgit";
     int age;
 }
